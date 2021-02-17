@@ -9,4 +9,5 @@
   - `Python`
 - `Other Languages`:
   - `JSON`
+  - `Bash`
   - `Assembly Language`
