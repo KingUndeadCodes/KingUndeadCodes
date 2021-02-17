@@ -11,3 +11,5 @@
   - `JSON`
   - `Bash`
   - `Assembly Language`
+
+Also, I like to suffer! My imaginary freinds make fun of my code. Yes, I am well aware that my code sucks!
