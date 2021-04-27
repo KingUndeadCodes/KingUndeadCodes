@@ -23,6 +23,9 @@ Sup? My code is sh-
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
 <br />
 <br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/go.png)
+<br />
+<br />
 
 **I use...**
 <br />
