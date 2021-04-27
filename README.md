@@ -15,6 +15,8 @@
 ![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
 <br />
 <br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
+<br />
 **Scripting Languages**:
 - **Other Languages**:
   - `JSON`
