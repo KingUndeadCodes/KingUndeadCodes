@@ -52,3 +52,6 @@ Sup? My code is sh-
 
 **Making an OS** - Still working on that one.\
 **Making an IDE** - Progress is being made because it runs in the web and ~~there is a lot of code to steal~~ programming for the web is easy.
+<br />
+<br />
+![](https://komarev.com/ghpvc/?username=KingUndeadCodes)
