@@ -17,10 +17,16 @@ I use...
 ![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
 <br />
 <br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/swift.png)
+<br />
+<br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
 <br />
 <br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png)
+<br />
+<br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/pc.png)
 <br />
 <br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png)
