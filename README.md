@@ -48,3 +48,7 @@ Sup? My code is sh-
 <br />
 **Also making my own IDE which is fun!**
 <hr />
+<h1>Projects...</h1>
+
+**Making an OS** - Still working on that one.\
+**Making an IDE** - Progress is being made because it runs in the web and ~~there is a lot of code to steal~~ programming for the web is easy.
