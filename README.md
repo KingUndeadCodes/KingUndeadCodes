@@ -47,8 +47,4 @@ Sup? My code is sh-
 <br />
 <br />
 **Also making my own IDE which is fun!**
-<br />
-<br />
-<br />
-<br />
 <hr />
