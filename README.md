@@ -49,8 +49,8 @@ Sup? My code is sh-
 **Also making my own IDE which is fun!**
 <br />
 <br />
-**Pledged Allegiance...**
 <br />
 <br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b50d8ca1e666614f7c6e7464f34287cfd7405b56/svg/devices/archlinux.svg)
 <hr />
+Also...
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b50d8ca1e666614f7c6e7464f34287cfd7405b56/svg/devices/archlinux.svg)
