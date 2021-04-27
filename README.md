@@ -1,6 +1,8 @@
 ### About ###
 
-[**I code in a number of languages:**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Sup? My code is sh-
+
+I use...
 <br />
 <br />
 ![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
@@ -17,10 +19,11 @@
 <br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
 <br />
-**Scripting Languages**:
-- **Other Languages**:
-  - `JSON`
-  - `Bash`
-  - `Assembly Language`
-
-Also, I like to suffer! My imaginary freinds make fun of my code. Yes, I am well aware that my code sucks!
+<br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png)
+<br />
+<br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png)
+<br />
+<br />
+![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png)
