@@ -2,7 +2,7 @@
 
 Sup? My code is sh-
 
-I use...
+**I can write...**
 <br />
 <br />
 ![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
@@ -23,13 +23,25 @@ I use...
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
 <br />
 <br />
+
+**I use...**
+<br />
+<br/>
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png)
 <br />
 <br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/pc.png)
 <br />
 <br />
+
+**Good IDEs...**
+<br />
+<br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png)
 <br />
 <br />
 ![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png)
+<br />
+<br />
+**Also making my own IDE which is fun!**
+<hr />
