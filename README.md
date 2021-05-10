@@ -50,7 +50,7 @@ Sup? My code is sh-
 <hr />
 <h1>Projects...</h1>
 
-**Making an OS** - Still working on that one.\
+**Making an OS** - Got something working after months LOL.\
 **Making an IDE** - Progress is being made because it runs in the web and ~~there is a lot of code to steal~~ programming for the web is easy.
 <br />
 <br />
