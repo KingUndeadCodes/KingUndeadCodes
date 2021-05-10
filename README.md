@@ -54,4 +54,5 @@ Sup? My code is sh-
 **Making an IDE** - Progress is being made because it runs in the web and ~~there is a lot of code to steal~~ programming for the web is easy.
 <br />
 <br />
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KingUndeadCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
 ![](https://komarev.com/ghpvc/?username=KingUndeadCodes)
