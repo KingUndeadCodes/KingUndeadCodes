@@ -1,52 +1,21 @@
 ### About ###
 
-Sup? My code is sh-
+👋 - Hello. Welcome to my README.\
+🏴 - I live in the United States\
+🧠 - I know several languages including...
+  - 🐍 Python
+  - 🐍 Cython
+  - 🦀 Rust
+  - 🟨 JavaScript
+  - 🟦 TypeScript
+  - 🕸 Web Development Languages (HTML, CSS)
 
-**I can write...**
-<br />
-<br />
-![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
-<br />
-<br />
-![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
-<br />
-<br />
-![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg)
-<br />
-<br />
-![forthebadge](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/swift.png)
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg)
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/go.png)
-<br />
-<br />
+📚 - Learning
+  - 🐦Swift
+  - C / C++
+  - 💻 x86 Assembly Language
+  - Go
 
-**I use...**
-<br />
-<br/>
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png)
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/pc.png)
-<br />
-<br />
-
-**Good IDEs...**
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png)
-<br />
-<br />
-![forthebadge](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png)
-<br />
-<br />
-**Also making my own IDE which is fun!**
 <hr />
 <h1>Projects...</h1>
 
