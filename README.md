@@ -26,19 +26,24 @@ int main() {
 
 👋 - Hello. Welcome to my README.\
 🏴 - I live in the United States\
-🧠 - I know several languages including...
-  - 🐍 Python
-  - 🐍 Cython
+🧠 - I am Fluent in several languages including...
+<ol>
+    <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/python.svg" style="display:inline;">
+    <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/javascript.svg" style="display:inline;">
+    <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/typescript.svg" style="display:inline;">
+    <!-- <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/swift.svg" style="display:inline;"> -->
+</ol>
+<!--
+ADD: 
   - 🦀 Rust
   - 🟨 JavaScript
   - 🟦 TypeScript
   - 🕸 Web Development Languages (HTML, CSS)
-
-📚 - Learning
   - 🐦Swift
   - C / C++
   - 💻 x86 Assembly Language
   - Go
+-->
 
 # Projects
 
