@@ -1,6 +1,28 @@
 <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/prof_pic.svg" style="display:inline;">
 
-### About ###
+<!--
+```c
+int main() {
+    const char* Location = "United States";
+    const char* Languages[] = {
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C",
+      "HTML & CSS",
+      "x86_64 assembly (NASM)",
+      "Swift",
+      "Rust (Limited)"
+      "C++ (Limited)",
+      "Go (Limited)"
+    };
+    return 0;
+}
+```
+-->
+
+# About
 
 👋 - Hello. Welcome to my README.\
 🏴 - I live in the United States\
@@ -18,11 +40,9 @@
   - 💻 x86 Assembly Language
   - Go
 
-<hr />
-<h1>Projects...</h1>
+# Projects
 
-**Making an OS** - Got something working after months LOL.\
-**Making an IDE** - Progress is being made because it runs in the web and ~~there is a lot of code to steal~~ programming for the web is easy.
+[**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*. Check it out! (NOTE: Still developing it!)\
 <br />
 <br />
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KingUndeadCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
