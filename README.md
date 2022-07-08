@@ -1,3 +1,5 @@
+<img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/prof_pic.svg" style="display:inline;">
+
 ### About ###
 
 👋 - Hello. Welcome to my README.\
