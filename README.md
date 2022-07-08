@@ -31,19 +31,15 @@ int main() {
     <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/python.svg" style="display:inline;">
     <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/javascript.svg" style="display:inline;">
     <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/typescript.svg" style="display:inline;">
-    <!-- <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/swift.svg" style="display:inline;"> -->
+    <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/swift.svg" style="display:inline;">
+    <img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/c.svg" style="display:inline;">
 </ol>
-<!--
-ADD: 
-  - 🦀 Rust
-  - 🟨 JavaScript
-  - 🟦 TypeScript
-  - 🕸 Web Development Languages (HTML, CSS)
-  - 🐦Swift
-  - C / C++
-  - 💻 x86 Assembly Language
-  - Go
--->
+
+<p>
+    In addition, I am fluent in HTML and CSS.<br />
+    I can code in Assembly Language as long as it's not to complex.<br>
+    I plan on continuing to learning Rust later in the future and maybe also pick up Go or Zig beyond that.<br>
+</p>
 
 # Projects
 
