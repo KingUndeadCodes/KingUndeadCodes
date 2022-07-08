@@ -1,4 +1,4 @@
-<img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/prof_pic.svg" style="display:inline;">
+<img src="https://github.com/KingUndeadCodes/KingUndeadCodes/raw/main/images/prof_pic.svg" style="display:inline;">
 
 <!--
 ```c
