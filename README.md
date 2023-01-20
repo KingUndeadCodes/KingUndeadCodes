@@ -25,4 +25,4 @@
 [**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*. Check it out! (NOTE: Still developing it!)\
 \
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KingUndeadCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-![](https://komarev.com/ghpvc/?username=KingUndeadCodes)
+<!-- ![](https://komarev.com/ghpvc/?username=KingUndeadCodes) -->
