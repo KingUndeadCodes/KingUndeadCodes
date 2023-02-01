@@ -32,7 +32,6 @@ Information = {
 
 ## Active Development
 [**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*. <!-- Check it out! (NOTE: Still developing it!) -->
-## Past Projects (🦗)
 ## Next Project(s)
 - RISC-V Emulator.
 # Stats
