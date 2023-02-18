@@ -30,10 +30,14 @@ Information = {
 ```
 # Projects
 
-## Active Development
-[**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*. <!-- Check it out! (NOTE: Still developing it!) -->
-## Next Project(s)
-- RISC-V Emulator.
+|       Project Name          |        Source          |        License         |                    Repository                        |    Status    |
+|-----------------------------|------------------------|------------------------|------------------------------------------------------|--------------|
+|       Pumpkin-OS            |        Public          |          MIT           |       https://github.com/KingUndeadCodes/Pumpkin-OS  |   Paused     |
+|       RISC-V Emulator       |        Public          |          MIT           |       https://github.com/KingUndeadCodes/RISCV       |   Developing |
+
+<!--
+[**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*.
+-->
 # Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KingUndeadCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
 <!-- ![](https://komarev.com/ghpvc/?username=KingUndeadCodes) -->
