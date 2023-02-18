@@ -15,6 +15,7 @@
     I plan on learning Rust and Zig later.
 </p>
 
+<!--
 # General Information 
 
 ```python
@@ -28,6 +29,7 @@ Information = {
     }
 }
 ```
+-->
 # Projects
 
 |       Project Name          |        Source          |        License         |                    Repository                        |    Status    |
@@ -40,4 +42,3 @@ Information = {
 -->
 # Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KingUndeadCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-<!-- ![](https://komarev.com/ghpvc/?username=KingUndeadCodes) -->
