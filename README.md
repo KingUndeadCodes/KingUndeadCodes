@@ -35,7 +35,7 @@ Information = {
 |       Project Name          |        Source          |        License         |                    Repository                        |    Status    |
 |-----------------------------|------------------------|------------------------|------------------------------------------------------|--------------|
 |       Pumpkin-OS            |        Public          |          MIT           |       https://github.com/KingUndeadCodes/Pumpkin-OS  |   Paused     |
-|       RISC-V Emulator       |        Public          |          MIT           |       https://github.com/KingUndeadCodes/RISCV       |   Developing |
+|       Risky                 |        Public          |          MIT           |       https://github.com/KingUndeadCodes/risky       |   Developing |
 
 <!--
 [**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*.
