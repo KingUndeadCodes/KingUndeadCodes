@@ -34,8 +34,8 @@ Information = {
 
 |       Project Name          |        Source          |        License         |                    Repository                        |    Status    |
 |-----------------------------|------------------------|------------------------|------------------------------------------------------|--------------|
-|       Pumpkin-OS            |        Public          |          MIT           |       https://github.com/KingUndeadCodes/Pumpkin-OS  |   Paused     |
-|       Risky                 |        Public          |          MIT           |       https://github.com/KingUndeadCodes/risky       |   Developing |
+|       Pumpkin-OS            |        Public          |          MIT           |       https://github.com/KingUndeadCodes/Pumpkin-OS  |   Developing |
+|       Risky                 |        Public          |          MIT           |       https://github.com/KingUndeadCodes/risky       |   Paused     |
 
 <!--
 [**Pumpkin-OS**](https://github.com/KingUndeadCodes/Pumpkin-OS) - `32-bit` `x86_64` *"OS"*.
